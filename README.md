@@ -80,3 +80,8 @@ php install.php
 如果你觉得这个项目对你有帮助，欢迎赞助我
 
 ![img](https://i.imgur.com/1EuGD9o.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGamerNoTitle%2FPigeon.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGamerNoTitle%2FPigeon?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGamerNoTitle%2FPigeon.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGamerNoTitle%2FPigeon?ref=badge_large)
